@@ -1,0 +1,27 @@
+{
+  "name": "testforgroup-",
+  "version": "1.0.0",
+  "description": "test for group",
+  "main": "server.js",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-route": "^1.6.6",
+    "angularjs-geolocation": "^0.1.3",
+    "express": "^4.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thines23/testforgroup-.git"
+  },
+  "author": "th",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thines23/testforgroup-/issues"
+  },
+  "homepage": "https://github.com/thines23/testforgroup-#readme"
+}
